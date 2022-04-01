@@ -1,0 +1,30 @@
+.pai4
+{
+    background-color: white;
+    height: 500px;
+    width: 50vh;
+    border-color: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pai4 .filha4
+{
+    background-color: rgb(218, 141, 0);
+    height: 300px;
+    width: 30%;
+
+}
+
+.pai4 .filha4 .filha5
+{
+    background-color: rgb(0, 133, 0);
+    color: white;
+    font-size: 30px;
+    border: 50px;
+    margin-top: 50;
+    margin-left: 50px;
+}
+
